@@ -1,0 +1,27 @@
+.foto-profil {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+}
+
+.header-tabel th {
+    background-color: #e9c99a;
+    color: black;
+}
+
+.gif-bawah {
+    width: 50px !important;
+    height: auto !important;
+    display: block;
+    margin: 20px auto;
+}
